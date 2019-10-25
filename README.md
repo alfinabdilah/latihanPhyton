@@ -53,5 +53,7 @@ DOWNLOAD SOFTWARE Git
   8.Simpan perubahan kedalam database repository dengan menggunakan perintah "git commit -m"
   ![7](https://user-images.githubusercontent.com/56971806/67521755-af3d2e00-f6d5-11e9-9537-630631ec559a.png)
   9.Masuk ke laman GitHub dan buka URL yang sudah di buat di repository GitHub, gunakan perintah "git remote add origin [url]", contoh: git remote add origin https://github.com/alfinabdilah/latihanPhyton.git
+  ![9](https://user-images.githubusercontent.com/56971806/67548382-e3dbd480-f72b-11e9-9f75-3e2a8ad0e356.png)
   10.Kirim perubahan local repository ke GitHub dengan menggunakan perintah "git push -u origin master"
+  ![10](https://user-images.githubusercontent.com/56971806/67548383-e4746b00-f72b-11e9-9d30-51172eed0848.png)
   11.Cek kembali repository di laman GitHub.
